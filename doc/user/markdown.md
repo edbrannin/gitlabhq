@@ -411,8 +411,8 @@ Would generate the following link IDs:
 1. `this-header-has-spaces-in-it`
 1. `this-header-has-a-in-it`
 1. `this-header-has-unicode-in-it-한글`
-1. `this-header-has-spaces-in-it`
 1. `this-header-has-spaces-in-it-1`
+1. `this-header-has-spaces-in-it-2`
 
 Note that the Emoji processing happens before the header IDs are generated, so the Emoji is converted to an image which then gets removed from the ID.
 
